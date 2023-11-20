@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "js-mid",
+  "description": "",
+  "version": "1.0.0",
+  "main": "promise.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon promise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbot918/js-mid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbot918/js-mid/issues"
+  },
+  "homepage": "https://github.com/cbot918/js-mid#readme"
+}
